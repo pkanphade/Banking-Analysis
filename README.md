@@ -1,9 +1,9 @@
 # Banking-Analysis-Power-BI-Dashboard
 
-![screenshot](Homepage.png)
-![screenshot](LoanAnalysis.png)
-![screenshot](DepositAnalysis.png)
-![screenshot](Summary.png)
+![screenshot]([Homepage.png](https://github.com/pkanphade/Banking-Analysis/blob/master/Homepage.PNG)
+![screenshot]([LoanAnalysis.png](https://github.com/pkanphade/Banking-Analysis/blob/master/LoanAnalysis.PNG)
+![screenshot]([DepositAnalysis.png](https://github.com/pkanphade/Banking-Analysis/blob/master/DepositAnalysis.PNG)
+![screenshot]([Summary.png](https://github.com/pkanphade/Banking-Analysis/blob/master/Summary.PNG)
 
 
 ## Introduction
