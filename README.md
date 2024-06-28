@@ -1,10 +1,9 @@
 # Banking-Analysis-Power-BI-Dashboard
 
-![screenshot]([Homepage.png](https://github.com/pkanphade/Banking-Analysis/blob/master/Homepage.PNG)
-![screenshot]([LoanAnalysis.png](https://github.com/pkanphade/Banking-Analysis/blob/master/LoanAnalysis.PNG)
-![screenshot]([DepositAnalysis.png](https://github.com/pkanphade/Banking-Analysis/blob/master/DepositAnalysis.PNG)
-![screenshot]([Summary.png](https://github.com/pkanphade/Banking-Analysis/blob/master/Summary.PNG)
-
+![Homepage](https://github.com/pkanphade/Banking-Analysis/assets/75200373/132a7131-e28d-48d2-9e33-67e83707340c)
+![LoanAnalysis](https://github.com/pkanphade/Banking-Analysis/assets/75200373/417065cf-7b76-4621-ad2d-d410a95fae03)
+![DepositAnalysis](https://github.com/pkanphade/Banking-Analysis/assets/75200373/013210a3-3361-4054-9667-86c1f2a17840)
+![Summary](https://github.com/pkanphade/Banking-Analysis/assets/75200373/b0113584-954b-4487-b4f4-890dd7d2ee32)
 
 ## Introduction
 The Banking Analysis Power BI Dashboard is a comprehensive tool designed to provide insights into various banking metrics. This dashboard is developed using four primary tables and several DAX queries to deliver a detailed analysis of banking relationships, client demographics, and financial metrics.
